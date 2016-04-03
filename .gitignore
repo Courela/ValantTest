@@ -1,0 +1,5 @@
+*.pdb
+*.dll
+bin/
+obj/
+.vs/InventoryAPI/v14/.suo
